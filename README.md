@@ -1,8 +1,9 @@
 # European Macroeconomic Dashboard
 > **First independent project** — Macro data analysis & visualization using Eurostat datasets (2015–2022)
 > git add EuroMacro.ipynb
-git commit -m "Adding Jupyter notebook"
-git push
+> git commit -m "Adding Jupyter notebook"
+> git push
+> 
 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
