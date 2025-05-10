@@ -1,9 +1,5 @@
 # European Macroeconomic Dashboard
-> **First independent project** — Macro data analysis & visualization using Eurostat datasets (2015–2022)
-> git add EuroMacro.ipynb
-> git commit -m "Adding Jupyter notebook"
-> git push
-> 
+> ** My first Github project! ** — Macroeconomic data analysis & visualisation using Eurostat datasets, from 2015 to 2022.
 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
