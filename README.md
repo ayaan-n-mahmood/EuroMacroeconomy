@@ -1,32 +1,27 @@
 # European Macroeconomic Dashboard
-> ** My first Github project! ** — Macroeconomic data analysis & visualisation using Eurostat datasets, from 2015 to 2022.
-
+> **My first Github project!** 
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Eurostat](https://img.shields.io/badge/Data-Eurostat-yellow?logo=data)
 
-A comprehensive, independently developed analysis of key macroeconomic indicators — **GDP growth**, **inflation**, and **unemployment** — across Euro area countries.
-
-## Project Overview
-
-This project integrates and analyzes real-world macroeconomic data to uncover trends, relationships, and statistical insights relevant to economic performance and policy evaluation within Europe.
+Analysing macroeconomic data with Eurostat datasets (between 2015 and 2022) to uncover trends and statistical insights relevant in modern Europe's banking and financial markets decision-making. I've analysed a few key macroeconomic factors - **GDP growth**, **inflation**, and **unemployment** — across Euro area countries. By leveraging datasets, Python, and its powerful libraries, I was able to apply myself to real-world economic data that impacts financial institutions.
 
 ## Key Features
 
-- ✅ Aggregated and harmonized Eurostat datasets  
+- ✅ Aggregated and harmonised Eurostat datasets  
 - ✅ Descriptive statistics of GDP, inflation, unemployment  
 - ✅ Correlation matrix analysis of macroeconomic indicators  
-- ✅ Clear visualizations (scatter plots, trendlines, heatmaps)
+- ✅ Clear visualisations
 
 ## Example Output
 
 **Correlation Matrix Heatmap**  
-*(Relationship between GDP growth, inflation & unemployment)*
+*(This heatmap shows how GDP growth, inflation, and unemployment are interrelated, essential for market risk forecasting)*
 
 <img src="correlation.heatmap.png"
 width="600">
 
-## Tools & Technologies
+## Tools I used for this project
 
 | Tool         | Usage                                |
 |--------------|--------------------------------------|
@@ -37,11 +32,11 @@ width="600">
 | Jupyter Lab  | Interactive coding environment      |
 | Eurostat API | Data source                          |
 
-## How to Run
+## To run this,
 
-1. Clone the repository  
-2. Open `dashboard_notebook.ipynb` in Jupyter Notebook  
-3. Ensure required libraries are installed:
+1. Clone the repository
+2. Open `dashboard_notebook.ipynb` in a Jupyter Notebook  
+3. Download the below libraries!
 
 ```bash
 pip install pandas matplotlib seaborn
