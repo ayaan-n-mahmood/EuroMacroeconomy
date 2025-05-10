@@ -23,7 +23,7 @@ This project integrates and analyzes real-world macroeconomic data to uncover tr
 **Correlation Matrix Heatmap**  
 *(Relationship between GDP growth, inflation & unemployment)*
 
-<img src="correlation_heatmap.png"
+<img src="correlation.heatmap.png"
 width="600">
 
 ## Tools & Technologies
